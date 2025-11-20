@@ -44,14 +44,14 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
-![WhatsApp Image 2025-11-20 at 09 33 54_3ffbee1f](https://github.com/user-attachments/assets/af678505-8763-4d1d-a95a-d6c351a51039)
+ <img width="1919" height="1076" alt="ex 1 a" src="https://github.com/user-attachments/assets/2b81cf58-f7d9-4de2-b49d-a2003dbad55d" />
+
 
 
 
 b.  KCL:
- 
-![BEEE KCL CIRCUTE](https://github.com/user-attachments/assets/fcdacc4b-d1d4-414a-9c83-55366018dd3c)
+ <img width="1913" height="1074" alt="ex 1 b" src="https://github.com/user-attachments/assets/2423d43a-9963-4a89-b045-02997c02e61e" />
+
 
 
 Calculation:
