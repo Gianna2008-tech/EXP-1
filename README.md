@@ -45,30 +45,40 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
+![WhatsApp Image 2025-11-20 at 09 33 54_3ffbee1f](https://github.com/user-attachments/assets/af678505-8763-4d1d-a95a-d6c351a51039)
+
 
 
 b.  KCL:
  
+![BEEE KCL CIRCUTE](https://github.com/user-attachments/assets/fcdacc4b-d1d4-414a-9c83-55366018dd3c)
+
 
 Calculation:
 
 a.   KVL:
  
+![BEEE EX 1 PG 1](https://github.com/user-attachments/assets/6311fa56-4d12-44f0-9770-acc96f41c0ce)
+![BEE EX1 PG 2](https://github.com/user-attachments/assets/d5686052-c729-42f5-8a23-042c256f95aa)
 
 
 b.  KCL:
 
+![BEE EX1 PG 2](https://github.com/user-attachments/assets/8d49fc55-6d01-4b40-a7cf-2940001a77c9)
 
+![BEEE EX 1 PG 3](https://github.com/user-attachments/assets/b90e8cc6-6cbf-4f11-ab52-63f58c5d9d5c)
 
 
 Tabulation:
 
 a.   KVL:
- 
+ ![BEEE KVL TABLE](https://github.com/user-attachments/assets/2bf83da6-bb8f-48e1-99bb-cace40dd579f)
+
 
 
 b.  KCL:
 
+![BEE KCL  TABLE](https://github.com/user-attachments/assets/8035fcd1-1b32-40d4-96ce-52860f368098)
 
 
 RESULT:
